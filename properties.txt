@@ -1,0 +1,4 @@
+My_user_in_that_line
+My_password_in_that_line
+
+obs: the max is 20 varchars for both camps!!!
